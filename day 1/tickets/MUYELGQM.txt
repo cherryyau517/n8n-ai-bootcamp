@@ -1,0 +1,7 @@
+Priority: Not urgent
+
+Name: Cherry
+
+Submitted:2026-10-07T13:50:46.271-04:00
+
+Issue: Microsoft Word will not open on the PC despite multiple troubleshooting steps (Safe Mode, end task, winword /safe and /a, rename Normal.dotm, Office Quick/Online Repair, updates, SFC/DISM, new user profile). User requests escalation.
