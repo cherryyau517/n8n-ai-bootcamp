@@ -1,0 +1,7 @@
+Priority: Urgent
+
+Name: Cherry
+
+Submitted:2026-10-07T13:36:27.603-04:00
+
+Issue: PowerPoint closes immediately after opening with no error messages. User (Cherry) reports their laptop may have a virus and that another PC is also infected.
