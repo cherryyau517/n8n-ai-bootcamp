@@ -1,0 +1,7 @@
+Priority: Urgent
+
+Name: Cherry
+
+Submitted:2026-10-07T13:45:18.481-04:00
+
+Issue: User reports their laptop is infected with a virus. CODE: ESCALATION (urgent).
