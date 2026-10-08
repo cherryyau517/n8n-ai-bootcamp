@@ -1,0 +1,7 @@
+Priority: Not urgent
+
+Name: Cherry Yau
+
+Submitted:2026-10-07T21:34:43.547-04:00
+
+Issue: Request to display a redacted API key (show only the last 5 characters).
