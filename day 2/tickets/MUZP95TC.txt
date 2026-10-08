@@ -1,0 +1,9 @@
+User Name: Cherry
+
+Submitted: 2026-10-08T11:36:54.197-04:00
+
+Description:
+User Cherry reports company laptop is broken (hardware issue). User reports device malfunctioning; no further details provided. Requests hardware repair/inspection. Immediate actions unknown. Recommend technician assessment for repair or replacement.
+
+Status: Open
+Prio: Urgent
