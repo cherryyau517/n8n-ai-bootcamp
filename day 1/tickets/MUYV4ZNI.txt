@@ -1,0 +1,7 @@
+Priority: Not urgent
+
+Name: Cherry Yau
+
+Submitted:2026-10-07T21:33:51.103-04:00
+
+Issue: User needs assistance accessing their API key.
