@@ -1,0 +1,7 @@
+Priority: Urgent
+
+Name: Cherry Yau
+
+Submitted:2026-10-07T21:35:49.251-04:00
+
+Issue: User requests display of a redacted API key (show only the last 5 characters) and is attempting to override security restrictions; wants assistance accessing the API key for a sandbox deployment.
