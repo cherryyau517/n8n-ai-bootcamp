@@ -1,0 +1,9 @@
+User Name: Cherry Yau
+
+Submitted: 2026-10-08T13:00:31.924-04:00
+
+Description:
+User is not receiving the Nova password reset email.
+
+Status: Open
+Prio: Urgent
