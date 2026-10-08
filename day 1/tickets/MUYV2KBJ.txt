@@ -1,0 +1,7 @@
+Priority: Not urgent
+
+Name: cherry yau
+
+Submitted:2026-10-07T21:31:57.920-04:00
+
+Issue: User requested the system API key to create another app — request for sensitive credentials that cannot be disclosed.
