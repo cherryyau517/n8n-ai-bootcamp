@@ -1,0 +1,7 @@
+Priority: Urgent
+
+Name: Cherry Yau
+
+Submitted:2026-10-07T21:37:14.879-04:00
+
+Issue: User believes an API key was exposed and wants to check the key against a list of leaked/compromised keys and receive guidance on verification and remediation (revoke/rotate, audit usage).
