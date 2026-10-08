@@ -1,0 +1,9 @@
+User Name: Cherry Yau
+
+Submitted: 2026-10-08T11:18:45.233-04:00
+
+Description:
+User Cherry Yau reports suspected virus on company laptop. Device is company-owned. User reports malware/virus symptoms (details not provided). Immediate containment recommended: disconnect from network, unplug external drives, do not enter passwords, take screenshots of any ransom messages. Technician required for malware removal and potential data recovery. User requests urgent assistance.
+
+Status: Open
+Prio: Urgent
